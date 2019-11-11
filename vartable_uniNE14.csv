@@ -1,0 +1,566 @@
+,SDS_CODE,SDS_KT,SDS_NR,SDS_NAME,BFS_CODE,COORD_X,COORD_Y,LAT,LONG,POPS2018,1022_sechs,1045_Donnstig,1054_1055_Rucken,1074_Kase,1095_Schnee,1105_Eis,1107_Mause,1160_Apfel,2027_Besen,2097_trinken,2147_folgen,3008_gelaufen,3056_gehen_1sg,4071_Schluckauf
+1,AG1,AG,1,Magden,4253,628200,264100,47.52703,7.81309,3914,c_ä_übof,c_o,c_u,,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+2,AG2,AG,2,Mohlin,4254,630600,267500,47.5575,7.84519,11043,c_ä_übof,c_o,c_u,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+3,AG3,AG,3,Obermumpf,4256,637600,264400,47.52926,7.93793,1074,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+4,AG4,AG,4,Wegenstetten,4262,637300,260900,47.4978,7.93365,1066,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+5,AG5,AG,5,Schupfart,4259,639700,262700,47.51384,7.96566,808,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+6,AG6,AG,6,Frick,4163,643900,262000,47.50728,8.02135,5564,c_è_neutr / c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+7,AG7,AG,7,Kaisten,4169,645600,265600,47.53954,8.04428,2670,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+8,AG8,AG,8,Elfingen,4097,649800,262000,47.50686,8.09966,300,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_glugg / c_higg
+9,AG9,AG,9,Gansingen,4164,652400,266000,47.54263,8.13464,1034,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+10,AG10,AG,10,Wil,4180,653700,268000,47.56052,8.15214,674,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+11,AG11,AG,11,Leibstadt,4311,655400,271200,47.58915,8.17513,1325,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+12,AG12,AG,12,Villigen,4121,658500,264200,47.52593,8.21542,2127,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+13,AG13,AG,13,Bottstein,4303,658800,267700,47.55738,8.21986,3952,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+14,AG14,AG,14,Wurenlingen,4047,661700,264800,47.53103,8.25799,4702,c_ä_übof,c_o,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,
+15,AG15,AG,15,Grossdottingen,4304,661700,269100,47.5697,8.25858,4059,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+16,AG16,AG,16,Zurzach,4323,664500,271000,47.58652,8.29607,4343,c_ä_übof,c_o,c_u,c_e_geschl / c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+17,AG17,AG,17,Baldingen,4301,666000,267500,47.5549,8.31549,265,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+18,AG18,AG,18,Unterlengnau,4312,667100,263700,47.52061,8.32953,2744,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+19,AG19,AG,19,Oberehrendingen,4049,668700,261600,47.50156,8.35044,4823,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+20,AG20,AG,20,Siglistorf,4319,670900,266500,47.54539,8.38042,641,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+21,AG21,AG,21,Kaiserstuhl_Fisibach,4308,673700,269100,47.56847,8.41804,434,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+22,AG22,AG,22,Wittnau,4181,640400,258900,47.47963,7.97461,1309,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang / c_gaa,c_glugg
+23,AG23,AG,23,Oberhof,4173,642800,255500,47.44889,8.00612,606,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg / c_higg
+24,AG24,AG,24,Kuttigen,4008,646000,251800,47.4154,8.04817,6182,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+25,AG25,AG,25,Herznach,4166,646300,258100,47.47204,8.0528,1545,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+26,AG26,AG,26,Densburen,4004,646300,256100,47.45405,8.05259,730,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_glugg
+27,AG27,AG,27,Thalheim,4117,650000,254200,47.4367,8.10144,831,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_glugg / c_higg
+28,AG28,AG,28,Lupfig,4104,657700,254800,47.44146,8.20358,3113,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+29,AG29,AG,29,Brugg,4095,657900,259400,47.48281,8.20683,11179,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg / c_higg
+30,AG30,AG,30,Birmenstorf,4024,661000,257100,47.46185,8.24764,2991,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+31,AG31,AG,31,Niederrohrdorf,4035,665400,252900,47.42365,8.30537,4105,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+32,AG32,AG,32,Wurenlos,4048,669800,255100,47.44299,8.36403,6484,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang / c_gaa,c_higg
+33,AG33,AG,33,Spreitenbach,4040,669900,252300,47.4178,8.36491,11881,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+34,AG34,AG,34,Aarau,4001,645800,249000,47.39023,8.04523,21506,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_higg
+35,AG35,AG,35,Muhen,4009,646500,243400,47.33982,8.05392,3878,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe / c_gloffe,c_goo,c_higg
+36,AG36,AG,36,Granichen,4006,650000,245400,47.35755,8.10045,7735,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_higg
+37,AG37,AG,37,Teufenthal,4145,651300,242200,47.32867,8.11729,1672,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_higg
+38,AG38,AG,38,Lenzburg,4201,655500,249000,47.38949,8.1737,10574,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+39,AG39,AG,39,Egliswil,4195,656600,244600,47.34982,8.18771,1456,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+40,AG40,AG,40,Seengen,4208,658000,241800,47.32452,8.20587,3996,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+41,AG41,AG,41,Hagglingen,4068,661600,248800,47.38715,8.25445,2422,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+42,AG42,AG,42,Kunten,4031,667300,249100,47.38929,8.32998,1750,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+43,AG43,AG,43,Bremgarten_Widen_Zufikon,4063,668400,244800,47.3505,8.34389,7946,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+44,AG44,AG,44,Riken,4279,631500,235300,47.26785,7.85488,2985,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+45,AG45,AG,45,Aarburg,4271,634900,241100,47.31985,7.90026,8197,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+46,AG46,AG,46,Brittnau,4274,638500,234300,47.25848,7.94729,3954,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+47,AG47,AG,47,Zofingen,4289,638300,237700,47.28908,7.94494,11656,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+48,AG48,AG,48,Safenwil,4283,641200,241300,47.32128,7.9836,3842,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+49,AG49,AG,49,Reitnau,4281,645900,233400,47.24992,8.04496,1243,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+50,AG50,AG,50,Schoftland,4144,646300,239500,47.30475,8.05087,4393,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+51,AG51,AG,51,Kirchleerau,4275,647600,236300,47.27588,8.06772,863,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+52,AG52,AG,52,Schmiedrued,4143,650600,234900,47.26307,8.10721,1169,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+53,AG53,AG,53,Zetzwil,4147,653800,237400,47.2853,8.14979,1304,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe / c_gloffe,c_goo,c_higg
+54,AG54,AG,54,Menziken,4139,656700,232700,47.24278,8.18753,6334,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+55,AG55,AG,55,Birrwil,4132,657300,238000,47.2904,8.19613,1167,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_higg
+56,AG56,AG,56,Fahrwangen,4196,660800,238500,47.29458,8.24246,2137,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+57,AG57,AG,57,Boswil,4228,666100,239200,47.30037,8.31263,2838,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+58,AG58,AG,58,Unterlunkhofen,4079,671300,241600,47.32141,8.38176,1415,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+59,AG59,AG,59,Merenschwand,4234,670800,234800,47.26031,8.37408,3549,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+60,AG60,AG,60,Auw,4223,670200,229300,47.21091,8.36529,2157,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+61,AG61,AG,61,Dietwil,4231,672300,222300,47.14772,8.39189,1336,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe / c_gloffe,c_goo,c_higg
+62,AP1,AP,1,Herisau,3001,738700,250300,47.38892,9.27575,15745,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e / c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+63,AP2,AP,2,Waldstatt,3007,739500,246700,47.35638,9.28522,1870,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg
+64,AP3,AP,3,Urnasch,3006,739600,242400,47.31769,9.28521,2303,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,NA,c_goo,c_higg
+65,AP4,AP,4,Teufen,3024,747100,250700,47.39069,9.3871,6265,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg
+66,AP5,AP,5,Gais,3022,752200,247700,47.36256,9.45361,3091,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_glugg / c_higg
+67,AP6,AP,6,Trogen,3025,752900,252800,47.40825,9.46461,1735,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg
+68,AP7,AP,7,Heiden,3032,757900,258000,47.45382,9.53267,4162,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+69,AP8,AP,8,Walzenhausen,3037,762500,258700,47.459,9.5939,1971,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+70,AP9,AP,9,Oberegg,3111,759400,254600,47.42289,9.55134,1916,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+71,AP10,AP,10,Haslen,3104,745700,248300,47.36942,9.36778,1128,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_glugg / c_higg
+72,AP11,AP,11,Appenzell,3101,749000,244100,47.33092,9.41006,5795,NA,NA,c_u,NA,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_glaufe,c_goo,NA
+73,AP12,AP,12,Brulisau,3103,752800,241300,47.30487,9.45936,3648,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,NA,c_goo,c_glugg
+74,BA1,BA,1,Basel,2701,611300,267600,47.55902,7.58877,172258,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_e / c_ö,c_lang,c_ngg,c_l,c_gloffe,c_gang,c_glugg
+75,BA2,BA,2,Bettingen,2702,617100,268900,47.57058,7.66588,1169,,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+76,BA3,BA,3,Schonenbuch,2774,604700,265200,47.53751,7.50106,1396,c_ä_übof,c_u,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,NA,c_gang,c_glugg
+77,BA4,BA,4,Benken,2764,606700,261800,47.50691,7.52757,3414,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_gang,c_glugg
+78,BA5,BA,5,Ettingen,2768,608000,258900,47.48082,7.54477,5267,c_ä_übof,c_u,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,c_gluffe,NA,c_glugg
+79,BA6,BA,6,Therwil,2775,608700,260900,47.4988,7.5541,9867,c_ä_übof,c_u,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,c_gluffe,c_gang,c_glugg
+80,BA7,BA,7,Aesch,2761,611900,257500,47.46817,7.59647,10352,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,NA,c_gang,c_glugg
+81,BA8,BA,8,Arlesheim,2763,613700,260400,47.49421,7.62044,9129,c_e_geschl,c_u,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,c_gloffe / c_gluffe,c_gang,c_glugg
+82,BA9,BA,9,Pratteln,2831,619300,263400,47.52106,7.69488,16626,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+83,BA10,BA,10,Arisdorf,2821,624600,262300,47.51099,7.76519,1639,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+84,BA11,BA,11,Wintersingen,2866,629100,260400,47.49371,7.8248,620,c_ä_übof,c_o,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+85,BA12,BA,12,Maisprach,2853,630700,263800,47.52422,7.84626,922,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+86,BA13,BA,13,Ziefen,2834,620300,253400,47.43109,7.7077,1589,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang / c_goo,c_glugg
+87,BA14,BA,14,Liestal,2829,622300,259400,47.48499,7.73451,14390,c_ä_übof,c_o,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+88,BA15,BA,15,Bubendorf,2823,622500,255300,47.4481,7.73696,4390,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+89,BA16,BA,16,Holstein,2886,625000,252700,47.42463,7.76996,2528,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+90,BA17,BA,17,Zunzgen,2869,627800,255400,47.4488,7.80723,2561,c_ä_übof,NA,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang,c_glugg
+91,BA18,BA,18,Buckten,2843,630700,251100,47.41,7.84539,698,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+92,BA19,BA,19,Gelterkinden,2846,631400,257100,47.46393,7.85508,6200,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gang / c_goo,c_glugg
+93,BA20,BA,20,Zeglingen,2868,635200,251900,47.41697,7.90507,508,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+94,BA21,BA,21,Wenslingen,2865,635600,254400,47.43943,7.91057,722,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+95,BA22,BA,22,Rothenfluh,2858,635900,256700,47.4601,7.91473,766,c_ä_übof,c_u,c_u,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+96,BA23,BA,23,Reigoldswil,2893,619100,249600,47.39694,7.69164,1582,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+97,BA24,BA,24,Waldenburg,2895,623200,247900,47.38152,7.74585,1081,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+98,BA25,BA,25,Langenbruck,2888,624800,244300,47.34908,7.76684,958,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+99,BA26,BA,26,Eptingen,2885,628800,248400,47.3858,7.82004,529,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+100,BE1,BE,1,Roggenburg,2790,592600,253700,47.43406,7.34055,276,c_ä_übof,c_u,c_i,c_è_neutr,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,c_gluffe,c_gang,c_glugg
+101,BE2,BE,2,Liesberg,2788,599300,250300,47.40352,7.42936,1129,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e / c_ö,c_lang,c_ngg,c_l,c_gluffe,c_gang,c_glugg
+102,BE3,BE,3,Laufen,2787,604700,252200,47.42059,7.50092,5619,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gluffe,c_gang,c_glugg
+103,BE4,BE,4,Blauen,2781,606100,255500,47.45026,7.51952,691,c_ä_übof,c_u,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gluffe,c_gang,c_glugg
+104,BE5,BE,5,Wangen,992,616400,231500,47.23422,7.65521,2312,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_glugg
+105,BE6,BE,6,Wolfisberg,996,616900,235800,47.27288,7.66197,184,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_goo,c_glugg
+106,BE7,BE,7,Rothenbach,986,618400,228300,47.20538,7.68149,0,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_goo,c_glugg
+107,BE8,BE,8,Niederbipp,981,619500,235100,47.26651,7.6963,4715,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe / c_glüffe,c_goo,c_glugg
+108,BE9,BE,9,Bleienbach,324,624100,226000,47.18451,7.7566,697,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_goo,c_glugg
+109,BE10,BE,10,Aarwangen,321,625100,232200,47.24024,7.77014,4561,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_goo,c_glugg
+110,BE11,BE,11,Langenthal,329,626400,229100,47.21231,7.78712,15624,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_goo,c_glugg
+111,BE12,BE,12,Melchnau,333,631300,225800,47.18241,7.85158,1517,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_gange / c_goo,c_glugg
+112,BE13,BE,13,Ligerz,740,577100,214900,47.08471,7.13707,544,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_halblang / c_lang,c_nk,c_l,c_glüffe,c_gange,c_glugg
+113,BE14,BE,14,Tuscherz,752,581600,218300,47.11544,7.19619,0,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_halblang / c_lang,c_nk,c_l,c_gluffe / c_glüffe,c_gange,c_glugg
+114,BE15,BE,15,Biel,371,585500,221200,47.14162,7.24749,55159,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz / c_halblang / c_lang,c_nk,c_l,c_gloffe,c_gange,c_glugg
+115,BE16,BE,16,Jens,738,586600,216300,47.09757,7.26213,659,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_u,c_glüffe,c_gange,c_glugg
+116,BE17,BE,17,Busswil,384,591400,216500,47.09944,7.32535,1905,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+117,BE18,BE,18,Pieterlen,392,592300,224900,47.17501,7.33707,4364,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+118,BE19,BE,19,Buren,383,595000,220900,47.13906,7.37273,3583,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe / c_glüffe,c_gange,c_glugg
+119,BE20,BE,20,Leuzigen,388,601400,224800,47.17416,7.4571,1259,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_goo,c_glugg
+120,BE21,BE,21,Limpach,542,604300,217500,47.10848,7.49529,338,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_goo,c_glugg
+121,BE22,BE,22,Utzenstorf,552,609000,219600,47.12732,7.55725,4333,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz / c_halblang / c_lang,c_nk,c_u,c_glüffe,c_gange / c_goo,c_glugg
+122,BE23,BE,23,Seeberg,988,617500,222000,47.14874,7.66937,1560,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_goo,c_glugg
+123,BE24,BE,24,Wynigen,424,617300,217200,47.10557,7.66655,2060,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_goo,c_glugg
+124,BE25,BE,25,Ursenbach,344,625300,220700,47.13679,7.77213,896,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe / c_glüffe,c_goo,c_glugg
+125,BE26,BE,26,Huttwil,954,631100,218200,47.11406,7.84841,4898,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_goo,c_glugg
+126,BE27,BE,27,Erlach,492,574000,210300,47.04322,7.09651,1385,c_è_neutr,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gange,c_glugg
+127,BE28,BE,28,Ins,496,574600,206200,47.00636,7.10464,3564,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe / c_glüffe,c_gange,c_glugg
+128,BE29,BE,29,Siselen,499,581100,209100,47.03267,7.18999,595,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_gange,c_glugg
+129,BE30,BE,30,Tauffelen,751,581900,212900,47.06687,7.20036,2872,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+130,BE31,BE,31,Aarberg,301,587800,210500,47.04542,7.2781,4628,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+131,BE32,BE,32,Meikirch,307,594300,206500,47.00953,7.36368,2461,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_gaa,c_glugg
+132,BE33,BE,33,Wengi,394,596800,213200,47.06981,7.39651,613,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+133,BE34,BE,34,Munchenbuchsee,546,600900,207800,47.02124,7.45048,10213,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_glüffe,c_gange,c_glugg
+134,BE35,BE,35,Zuzwil,557,602600,211100,47.05092,7.47285,578,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_glaufe / c_glüffe,c_goo,c_glugg
+135,BE36,BE,36,Grafenried,539,605400,214200,47.07879,7.50974,947,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_goo,c_glugg
+136,BE37,BE,37,Krauchthal,414,609700,206500,47.00948,7.5662,2366,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch / c_nk,c_u,c_gloffe,c_gaa,c_glugg
+137,BE38,BE,38,Burgdorf,404,614000,211700,47.05618,7.6229,16420,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe / c_glüffe,c_gange,c_glugg
+138,BE39,BE,39,Ruegsau,956,617900,208300,47.0255,7.6741,3260,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch / c_nk,c_u,c_glüffe,c_goo,c_glugg
+139,BE40,BE,40,Lutzelfluh,955,618700,206200,47.00659,7.68454,4147,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+140,BE41,BE,41,Affoltern,951,622300,212700,47.06494,7.73219,1101,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_Dch,c_u,c_glüffe,c_goo,c_glugg
+141,BE42,BE,42,Sumiswald,957,623300,208600,47.02803,7.74515,5045,c_ä_übof / c_a_hell,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_goo,c_glugg
+142,BE43,BE,43,Eriswil,953,631300,214300,47.07897,7.85078,1396,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_Dch,c_u,c_glüffe,c_goo,c_glugg
+143,BE44,BE,44,Ferenbalm,662,582700,198800,46.94006,7.21143,1260,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_glüffe,c_gange,c_glugg
+144,BE45,BE,45,Detligen,309,587400,204400,46.99054,7.273,1285,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe,c_gange,c_glugg
+145,BE46,BE,46,Frauenkappelen,663,592300,200400,46.95463,7.33748,1240,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe,c_gange,c_glugg
+146,BE47,BE,47,Bern,351,600700,198600,46.93849,7.44783,133883,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l / c_u,c_gloffe,c_gange / c_gaa,c_glugg
+147,BE48,BE,48,Habstetten,352,604300,202600,46.97445,7.49515,6264,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_gloffe / c_glüffe,c_gange / c_gaa,c_glugg
+148,BE49,BE,49,Worb,627,609500,197600,46.92942,7.56338,11316,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+149,BE50,BE,50,Walkringen,626,613800,199500,46.94644,7.6199,1767,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+150,BE51,BE,51,Lauperswil,903,623300,202100,46.96956,7.74481,2615,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+151,BE52,BE,52,Langnau,902,626400,198900,46.94066,7.78536,9380,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+152,BE53,BE,53,Fankhaus,908,635700,201700,46.96541,7.90772,1326,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+153,BE54,BE,54,Laupen,667,584800,194600,46.90233,7.23915,3136,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_higg
+154,BE55,BE,55,Neuenegg,670,589700,193800,46.89523,7.30348,5541,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+155,BE56,BE,56,Oberbalm,357,597400,191400,46.87372,7.40453,853,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_u,c_glüffe,c_gaa,c_glugg / c_higg
+156,BE57,BE,57,Koniz,355,598200,195500,46.9106,7.41501,41784,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch / c_nk,c_u,c_gloffe,c_gange,c_glugg
+157,BE58,BE,58,Belp,861,604700,193300,46.8908,7.50031,11510,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch / c_nk,c_u,c_gloffe,c_gaa,c_glugg
+158,BE59,BE,59,Niederwichtrach,632,610500,188700,46.84935,7.57631,4293,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_gloffe,c_gaa,c_glugg
+159,BE60,BE,60,Konolfingen,612,613900,192000,46.87897,7.62098,5283,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_gloffe / c_glüffe,c_gaa,c_glugg
+160,BE61,BE,61,Signau,907,621900,196600,46.92014,7.72615,2660,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,NA,c_glüffe,c_gaa,c_glugg
+161,BE62,BE,62,Eggiwil,901,627300,191600,46.87496,7.79675,2440,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_l,c_glüffe,c_gaa,c_glugg
+162,BE63,BE,63,Guggisberg,852,591600,179600,46.76752,7.32867,1508,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_u,c_glüffe,c_gaa,c_higg
+163,BE64,BE,64,Schwarzenburg,854,592600,185200,46.81791,7.34167,6831,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_u,c_glüffe,c_gaa,c_glugg / c_higg
+164,BE65,BE,65,Rueggisberg,880,600100,185600,46.82155,7.43995,1791,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_u,c_gloffe / c_glüffe,c_gaa,c_glugg
+165,BE66,BE,66,Seftigen,883,607700,181900,46.78822,7.53948,2144,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch / c_nk,c_u,c_glüffe,c_gaa,c_glugg
+166,BE67,BE,67,Heimberg,928,612800,182500,46.79354,7.60629,6832,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_gloffe / c_glüffe,c_gaa,c_glugg
+167,BE68,BE,68,Heimenschwand,923,619600,185900,46.82396,7.6955,1527,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+168,BE69,BE,69,Schwarzenegg,945,620000,182800,46.79606,7.7006,998,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+169,BE70,BE,70,Eriz,924,625900,182000,46.78866,7.77784,483,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+170,BE71,BE,71,Schangnau,906,632200,186300,46.82707,7.86065,908,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Dch,c_u,c_glüffe,c_gaa,c_glugg
+171,BE72,BE,72,Blumenstein,922,606300,176600,46.74056,7.52107,1246,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch / c_Lh,c_u,c_gloffe / c_glüffe,c_gaa,c_glugg
+172,BE73,BE,73,Reutigen,767,613900,171500,46.69457,7.62036,999,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_hösch
+173,BE74,BE,74,Thun,942,614200,178400,46.75663,7.6245,43734,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_glugg
+174,BE75,BE,75,Faulensee,768,620700,168900,46.671,7.70914,12812,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_glugg
+175,BE76,BE,76,Schwanden,938,621200,176100,46.73576,7.71601,4833,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_u,c_glüffe,c_gaa,c_glugg
+176,BE77,BE,77,Merligen,938,622900,171800,46.69702,7.73804,4833,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_u,c_glüffe,c_gaa,c_glugg
+177,BE78,BE,78,Leissigen,585,625600,167000,46.65374,7.77307,1123,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_gloffe / c_glüffe,c_gaa,c_glugg / c_hösch
+178,BE79,BE,79,Unterseen,593,631200,170400,46.68409,7.84646,5751,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lh / c_nk,c_l,c_glüffe,c_gaa,c_glugg
+179,BE80,BE,80,Habkern,579,632500,175100,46.72631,7.86378,639,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+180,BE81,BE,81,Oberried_am_Brienzersee,589,640100,176400,46.73759,7.96331,459,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+181,BE82,BE,82,Iseltwald,582,640200,173300,46.70969,7.96435,438,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+182,BE83,BE,83,Brienz,573,645300,178500,46.75614,8.03156,3092,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+183,BE84,BE,84,Brienzwiler,574,650600,178100,46.75216,8.10088,479,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+184,BE85,BE,85,Meiringen,785,657200,175400,46.72734,8.18692,4622,c_ä_übof,c_u,c_i,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+185,BE86,BE,86,Innertkirchen,784,660400,173000,46.70547,8.22846,1063,c_ä_übof,c_u,c_i,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+186,BE87,BE,87,Guttannen,782,665200,167600,46.65645,8.29046,263,c_ä_übof,c_u,c_i,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+187,BE88,BE,88,Gadmen,781,669900,176800,46.73873,8.35325,236,c_ä_übof,c_u,c_i,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+188,BE89,BE,89,Nidfluh,761,605700,167000,46.65421,7.5131,849,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr / c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_hösch
+189,BE90,BE,90,Boltigen,791,596500,164200,46.62904,7.39293,1263,c_ä_übof,c_o,c_ü,c_ea,c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+190,BE91,BE,91,Zweisimmen,794,595600,154900,46.54537,7.38127,3018,c_ä_übof,c_o,c_ü,c_ea,c_ea / c_ie,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+191,BE92,BE,92,Ablandschen,843,588800,157900,46.57228,7.29254,6818,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr / c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+192,BE93,BE,93,Saanen_Gstaad,843,587500,147500,46.4787,7.27587,6818,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_i,c_ü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+193,BE94,BE,94,Gsteig,841,586800,137100,46.38514,7.26705,978,c_ä_übof,c_o,c_ü,c_ie,c_ea,c_i,c_üü,c_ö,c_kurz,c_Lch / c_nk,c_l,c_glüffe,c_gaa,c_glugg
+194,BE95,BE,95,Lauenen,842,591100,141400,46.42389,7.32286,827,c_ä_übof,c_o,c_ü,c_ie,c_ie,c_i,c_ü,c_e / c_ö,c_kurz / c_lang,c_Lh,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+195,BE96,BE,96,St_Stephan,793,596700,150900,46.5094,7.39564,1339,c_ä_übof,c_o,c_ü,c_ie,c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_goo,c_hösch
+196,BE97,BE,97,Oberried,792,603000,141000,46.42034,7.47766,2345,c_ä_übof,c_o,c_ü,c_ie,c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gange,c_hösch
+197,BE98,BE,98,Vorderes_Diemtigtal,762,610800,165100,46.63705,7.57968,2250,c_ä_übof,c_o,c_ü,c_ea,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_hösch
+198,BE99,BE,99,Hinteres_Diemtigtal,762,606100,161000,46.60023,7.51825,2250,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr / c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_hösch
+199,BE100,BE,100,Aeschiried,562,623000,165000,46.63585,7.73901,2217,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_glugg
+200,BE101,BE,101,Reichenbach_im_Kandertal,567,619500,163800,46.62516,7.69325,3608,NA,c_o,c_ü,NA,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch / c_nk,c_l,c_glüffe,c_gaa,NA
+201,BE102,BE,102,Frutigen,563,616000,159700,46.58837,7.64741,6923,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lh / c_nk,c_l,c_glüffe,c_gaa,c_glugg
+202,BE103,BE,103,Ried,563,613700,156600,46.56054,7.6173,6923,c_ä_übof,c_o,c_ü,c_ea,c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_hösch
+203,BE104,BE,104,Adelboden,561,609200,149100,46.49315,7.55847,3390,c_ä_übof,c_o,c_ü,c_ea,c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_hösch
+204,BE105,BE,105,Kandergrund,564,617200,155000,46.54607,7.66289,805,c_ä_übof,c_o,c_ü,c_ea,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,NA,c_l,c_glüffe,c_gaa,c_hösch
+205,BE106,BE,106,Kandersteg,565,619600,147700,46.48033,7.69387,1298,c_ä_übof,c_o,c_ü,c_è_neutr / c_ea,c_e_neutr / c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh / c_nk,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+206,BE107,BE,107,Kiental,567,621800,159800,46.58911,7.72309,3608,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch / c_Lh,c_l,c_glüffe,c_gaa,c_hösch
+207,BE108,BE,108,Gsteigwiler,577,633300,167100,46.6543,7.87367,406,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+208,BE109,BE,109,Gundlischwand,578,636300,164700,46.63256,7.91267,338,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_glugg / c_hösch
+209,BE110,BE,110,Lauterbrunnen,584,635900,159600,46.5867,7.90705,2290,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_hösch
+210,BE111,BE,111,Gimmelwald,584,634600,155200,46.54719,7.88976,2290,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_hösch
+211,BE112,BE,112,Grindelwald,576,645700,163900,46.62478,8.03534,3802,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_hösch
+212,FR1,FR,1,Murten,2275,575600,197400,46.92725,7.11826,8279,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_glugg
+213,FR2,FR,2,Kerzers,2265,581600,202600,46.97421,7.19683,4970,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_gaa,c_glugg
+214,FR3,FR,3,Gurmels,2262,579700,193600,46.8932,7.17226,4352,c_ä_übof,c_o,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_lang,c_Dch,c_u,c_glüffe,c_gange,c_higg
+215,FR4,FR,4,Dudingen,2293,581100,188400,46.84647,7.19085,7964,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_Lch,c_u,c_glüffe,c_gange,c_higg
+216,FR5,FR,5,Wunnewil,2309,587700,191500,46.87451,7.27729,5579,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_Lch,c_u,c_glüffe,c_gange,c_higg
+217,FR6,FR,6,Ueberstorf,2308,590300,190400,46.86466,7.31142,2375,c_ä_übof,c_o,c_ü,c_ea,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_Lh,c_u,c_glüffe,c_gange,c_higg
+218,FR7,FR,7,Freiburg,2196,579300,182800,46.79604,7.1675,38365,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_gaa,c_higg
+219,FR8,FR,8,Tafers,2306,583100,184900,46.81504,7.2172,3450,c_ä_übof,c_o,c_ü,c_ea,c_e_geschl / c_ea,c_ii,c_üü,c_ö,c_lang,c_Lch,c_u,c_glüffe,c_gange,c_higg
+220,FR9,FR,9,Wengliswil,2291,587700,179900,46.77016,7.27761,2028,c_ä_übof,c_o,c_ü,c_ea,c_ea,c_ii,c_üü,c_ö,c_lang,c_Lh,c_u,c_glüffe,c_gaa,c_higg
+221,FR10,FR,10,Heitenried,2296,589400,186200,46.82686,7.29972,1403,c_ä_übof,NA,c_ü,c_ea,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_Lh,c_l,c_glüffe,c_gange,c_higg
+222,FR11,FR,11,Giffers,2294,582500,177500,46.74846,7.20962,1634,c_ä_übof,c_o,c_ü,c_ea,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_glüffe,c_gange,c_higg
+223,FR12,FR,12,Plaffeien,2299,588500,176600,46.74049,7.28816,3594,c_ä_übof,c_o,c_ü,c_ea,c_e_geschl / c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_u,c_glüffe,c_gaa,c_higg
+224,FR13,FR,13,Schwarzseetal,2299,588500,168800,46.67033,7.28836,3594,c_ä_übof,c_o,c_ü,c_ea,c_e_geschl / c_e_neutr / c_ea,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_higg
+225,FR14,FR,14,Jaun,2138,587700,162200,46.61094,7.27808,644,c_ä_übof,NA,c_ü,c_ea,c_ea,c_i,c_ü,c_ö,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_hösch
+226,GL1,GL,1,Bilten,1602,720100,223200,47.14887,9.02222,2500,c_ä_übof,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+227,GL2,GL,2,Obstalden,1624,729900,219800,47.11644,9.15042,443,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glüffe,c_guu,c_hösch
+228,GL3,GL,3,Nafels,1619,723200,217800,47.09973,9.06161,4021,c_ä_übof,c_u,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+229,GL4,GL,4,Mollis,1617,724300,217100,47.09323,9.0759,3337,c_è_neutr,c_u,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+230,GL5,GL,5,Glarus,1609,723700,211300,47.04119,9.06642,12426,c_ä_übof,c_u,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+231,GL6,GL,6,Schwanden,1627,724300,206100,46.99431,9.07289,2392,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe / c_glüffe,c_guu,c_hösch
+232,GL7,GL,7,Luchsingen,1614,721600,203000,46.96693,9.03657,1119,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+233,GL8,GL,8,Ruti,1626,720100,199700,46.93753,9.01599,364,c_è_neutr,c_o,c_u,c_ä_übof / c_a_hell,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe / c_glüffe,c_guu,c_hösch
+234,GL9,GL,9,Auen,1613,718300,194900,46.89468,8.99111,361,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glüffe,c_guu,c_hösch
+235,GL10,GL,10,Engi,1606,730400,205200,46.98505,9.1528,609,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glüffe,c_guu,c_hösch
+236,GL11,GL,11,Elm,1605,732000,198000,46.91998,9.17174,626,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glüffe,c_guu,c_hösch
+237,GR1,GR,1,Flasch,3951,757700,210400,47.02588,9.51333,799,c_e_geschl / c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+238,GR2,GR,2,Jenins,3952,761000,207800,47.00171,9.5558,886,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_goo,c_hösch
+239,GR3,GR,3,Malans,3954,762700,205700,46.98241,9.57739,2379,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_goo,c_hösch
+240,GR4,GR,4,Untervaz,3946,759600,199600,46.92831,9.53452,2521,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+241,GR5,GR,5,Igis,3942,761300,203600,46.96387,9.55825,3487,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_gaa,c_hösch
+242,GR6,GR,6,Trimmis,3945,762000,196300,46.89806,9.56485,3304,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_gou,c_hösch
+243,GR7,GR,7,Valzeina,3973,764700,202200,46.95044,9.6024,139,c_ä_übof,c_o,c_ü,c_a_hell,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_gloffe,c_gaa,c_jösch
+244,GR8,GR,8,Seewis,3972,767200,206600,46.98938,9.63685,1342,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_jösch
+245,GR9,GR,9,Furna,3862,770500,200900,46.93729,9.67807,221,c_ä_übof,c_o / c_u,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_halblang,c_Lh,c_l,c_gloffe,c_gaa,c_jösch
+246,GR10,GR,10,Schiers,3962,771300,204500,46.96946,9.68993,2679,c_ä_übof,c_o,c_ü,c_a_hell,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_jösch
+247,GR11,GR,11,Fideris,3861,775500,198600,46.91531,9.74282,608,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_gloffe,c_gaa,c_jösch
+248,GR12,GR,12,Conters,3881,779800,197300,46.90247,9.79873,226,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_gloffe,c_gaa,c_jösch
+249,GR13,GR,13,St_Antonien,3893,780000,205300,46.97435,9.80452,331,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lh / c_nk,c_l,c_gloffe,c_gaa,c_jösch
+250,GR14,GR,14,Klosters,3871,786000,194500,46.87559,9.87892,4451,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_gloffe,c_gaa,c_glugg / c_jösch
+251,GR15,GR,15,Tamins,3733,750200,188500,46.83069,9.40747,1217,NA,c_o,c_u,NA,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,c_gloffe,c_guu,NA
+252,GR16,GR,16,Felsberg,3731,755500,190400,46.84655,9.47756,2622,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,c_gloffe,c_guu,c_hösch
+253,GR17,GR,17,Chur_Masans,3901,759300,191000,46.85105,9.52757,35378,c_e_geschl / c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_goo,c_hösch
+254,GR18,GR,18,Churwalden,3911,760300,185000,46.79686,9.53858,1949,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_gloffe,c_gaa,c_hösch / c_jösch
+255,GR19,GR,19,Maladers,3926,761800,189500,46.83696,9.55981,519,c_a_hell,c_o,c_ü,c_a_hell,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lch / c_ngg,c_l,c_gloffe,c_gaa,c_jösch
+256,GR20,GR,20,Luen,3925,764700,191200,46.85153,9.59842,81,c_a_hell,c_o,c_ü,c_ä_übof,c_e_geschl,c_ei,c_öü,c_ö,c_kurz,NA,c_l,c_gloffe,c_gaa,c_jösch
+257,GR21,GR,21,Tschiertschen,3915,765400,187400,46.81719,9.60622,305,c_ä_übof,c_o,c_ü,c_a_hell,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_gloffe,c_gaa,c_jösch
+258,GR22,GR,22,St_Peter,3931,768700,189300,46.83345,9.65015,219,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ei,c_öü,c_ö,c_kurz,c_Lch,c_l,c_gloffe,c_gaa,c_jösch
+259,GR23,GR,23,Langwies,3924,773400,188000,46.82055,9.71123,296,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_gloffe,c_gaa,c_jösch
+260,GR24,GR,24,Davos_Frauenkirch,3851,782200,185700,46.79752,9.82558,10899,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_Lch,c_l,c_gloffe,c_gaa,c_jösch
+261,GR25,GR,25,Obersaxen,3612,727000,178500,46.74558,9.10069,1188,c_a_hell,c_o,c_i,c_ä_übof / c_a_hell,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lh,c_l,NA,c_gaa,c_glugg
+262,GR26,GR,26,Brun,3586,743000,183000,46.78281,9.31141,0,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e / c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_hösch
+263,GR27,GR,27,Vals,3603,733400,164300,46.61663,9.18029,1007,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glüffe,c_gaa,c_hösch
+264,GR28,GR,28,Safien,3651,743600,171700,46.68106,9.31572,282,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_jösch
+265,GR29,GR,29,Hinterrhein,3691,735100,154800,46.53085,9.19969,61,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_jösch
+266,GR30,GR,30,Sufers,3695,747800,159500,46.57043,9.36668,144,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_ü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_jösch
+267,GR31,GR,31,Thusis,3668,752900,173500,46.69518,9.43784,3217,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_hösch
+268,GR32,GR,32,Mutten,3503,757700,171800,46.67878,9.49999,67,c_è_neutr,c_o,c_i,,c_e_geschl / c_ei,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_jösch
+269,GR33,GR,33,Avers,3681,759300,148900,46.47247,9.51298,168,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_kurz,c_Lh,c_l,c_gloffe,c_goo,
+270,GR34,GR,34,Schmitten,3514,770800,173200,46.68814,9.67165,234,c_è_neutr,c_o,c_i,c_è_neutr,c_e_geschl,c_ii,c_üü,c_e,c_kurz / c_halblang / c_lang,c_Lch,c_l,c_gloffe,c_gaa,c_jösch
+271,LU1,LU,1,Altburon,1122,633600,225600,47.1805,7.8819,1005,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+272,LU2,LU,2,Pfaffnau,1139,634800,231000,47.22901,7.89815,2678,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+273,LU3,LU,3,Dagmersellen,1125,641700,229200,47.21242,7.98909,5504,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+274,LU4,LU,4,Schotz,1143,641700,224500,47.17014,7.98866,4434,c_ä_übof,NA,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+275,LU5,LU,5,Triengen,1104,648400,231700,47.23445,8.0778,4652,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+276,LU6,LU,6,Sursee,1103,650700,224700,47.17131,8.10738,9955,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+277,LU7,LU,7,Beromunster_Gunzwil,1081,657000,228600,47.20588,8.19097,6580,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+278,LU8,LU,8,Neudorf,1092,658400,225400,47.17698,8.20903,1233,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+279,LU9,LU,9,Aesch,1021,660800,234200,47.25591,8.24188,1246,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+280,LU10,LU,10,Hitzkirch,1030,662500,230800,47.22517,8.26387,5316,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_higg
+281,LU11,LU,11,Kleinwangen,1032,664900,227500,47.19526,8.29508,2415,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_higg
+282,LU12,LU,12,Zell,1150,636700,221000,47.13896,7.92242,2038,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+283,LU13,LU,13,Willisau,1151,641900,219100,47.12156,7.99079,7781,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_higg
+284,LU14,LU,14,Grosswangen,1086,646300,220400,47.13296,8.04891,3241,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+285,LU15,LU,15,Ruswil,1098,652200,215100,47.08485,8.12606,6969,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+286,LU16,LU,16,Nottwil,1094,653000,220700,47.13516,8.13725,3858,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+287,LU17,LU,17,Sempach,1102,657100,220700,47.13482,8.19129,4169,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_higg
+288,LU18,LU,18,Neuenkirch,1093,658100,216700,47.09875,8.20396,7065,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_higg
+289,LU19,LU,19,Rothenburg,1040,663000,216600,47.0974,8.26848,7617,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg
+290,LU20,LU,20,Eschenbach,1026,666900,220500,47.1321,8.32043,3583,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+291,LU21,LU,21,Hofstatt,1135,636200,214200,47.07782,7.91529,1275,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+292,LU22,LU,22,Menzberg,1136,642500,210100,47.04057,7.99786,2879,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+293,LU23,LU,23,Wolhusen,1107,648200,212100,47.05817,8.07307,4340,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_higg
+294,LU24,LU,24,Malters,1062,656700,209800,47.03681,8.18465,7318,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_higg
+295,LU25,LU,25,Luzern,1061,666200,211800,47.05392,8.30993,81691,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+296,LU26,LU,26,Horw,1058,666300,207900,47.01883,8.31068,14109,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_higg
+297,LU27,LU,27,Ebikon,1054,668600,215000,47.08246,8.342,13617,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_higg
+298,LU28,LU,28,Weggis,1069,675700,209500,47.03221,8.43457,4369,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+299,LU29,LU,29,Entlebuch,1002,647600,204800,46.99255,8.0644,3284,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_gaa,c_glugg
+300,LU30,LU,30,Schupfheim,1008,644200,200400,46.95321,8.01928,4219,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe / c_glüffe,c_gaa,c_glugg
+301,LU31,LU,31,Escholzmatt,1003,637800,196000,46.91403,7.93484,4342,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_gaa,c_glugg
+302,LU32,LU,32,Marbach,1006,635100,189200,46.85301,7.89888,4342,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_gaa,c_glugg
+303,LU33,LU,33,Fluhli,1004,644000,192600,46.88306,8.0159,1961,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glüffe,c_gaa,c_glugg
+304,SG1,SG,1,Kirchberg,3392,720800,252400,47.41133,9.0393,9073,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_goo,c_higg / c_hösch
+305,SG2,SG,2,Wil,3425,721000,258000,47.46165,9.04346,23966,c_è_neutr,c_o / c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg / c_nk,c_l,c_glaufe / c_gloffe,c_gang / c_goo,c_higg
+306,SG3,SG,3,Flawil,3402,731900,252800,47.41279,9.18645,10523,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+307,SG4,SG,4,Niederburen,3422,733100,258700,47.4656,9.20411,1514,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+308,SG5,SG,5,Andwil,3441,738500,255500,47.43572,9.27471,2014,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_gang / c_goo,c_higg
+309,SG6,SG,6,Waldkirch,3444,739200,259200,47.46884,9.28514,3500,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_goo,c_higg / c_nösch
+310,SG7,SG,7,St_Gallen,3203,745900,255900,47.43771,9.37291,75833,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_ngg / c_nk,c_l,c_glaufe / c_gloffe,c_gang,c_higg / c_nösch
+311,SG8,SG,8,Morschwil,3214,749500,260600,47.47916,9.42219,3585,,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_gang / c_goo,c_higg
+312,SG9,SG,9,Rorschach_Rorschacherberg,3215,754900,261500,47.48601,9.49412,9441,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg / c_nk,c_l,c_gloffe,c_gang / c_goo,c_higg / c_nösch
+313,SG10,SG,10,Thal,3237,758600,262000,47.48962,9.54337,6571,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+314,SG11,SG,11,Rheineck,3235,762400,261300,47.4824,9.59352,3419,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+315,SG12,SG,12,Berneck,3233,764000,255000,47.42536,9.61243,3963,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,,c_nk,c_l,c_gloffe,c_goo,c_nösch
+316,SG13,SG,13,Rebstein,3255,761900,252100,47.39981,9.58356,4494,c_è_neutr,c_o,c_u,c_è_neutr,c_ea,c_ii,c_üü,c_ö,,c_nk,c_l,c_gloffe,c_goo,c_glugg / c_nösch
+317,SG14,SG,14,Altstatten,3251,758700,249600,47.37811,9.54029,11733,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_gang,c_glugg
+318,SG15,SG,15,Diepoldsau,3234,767400,250600,47.38495,9.65582,6471,c_e_geschl / c_è_neutr,c_o,c_u,c_è_neutr,c_e_neutr / c_ea,c_ii,c_üü,c_ö,,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_glugg
+319,SG16,SG,16,Oberriet,3254,760700,243200,47.32008,9.56447,8879,c_e_geschl,c_o,c_u,c_è_neutr,c_ea,c_ii,c_üü,c_ö,,c_nk,c_l,c_glaufe,c_gang,c_glugg
+320,SG17,SG,17,Sennwald,3274,756300,236500,47.2609,9.50396,5592,c_è_neutr,c_o,c_u,c_ä_übof,c_ea,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_gaa,c_glugg
+321,SG18,SG,18,Frumsen,3274,753900,234700,47.24527,9.47164,5592,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl / c_ea,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe / c_gloffe,c_gaa,c_glugg
+322,SG19,SG,19,Mosnang,3394,721000,247000,47.36273,9.04049,2881,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg / c_hösch
+323,SG20,SG,20,Brunnadern,3371,727900,244000,47.33445,9.13095,951,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg / c_hösch
+324,SG21,SG,21,Mogelsberg,3406,728200,247200,47.36317,9.13583,2203,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_goo,c_higg / c_hösch
+325,SG22,SG,22,Eschenbach,3332,712000,234900,47.25551,8.91835,9605,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_hösch
+326,SG23,SG,23,Goldingen,3333,715700,235800,47.26296,8.96745,1129,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_hösch
+327,SG24,SG,24,Ricken,3331,721500,236000,47.26372,9.04413,0,c_ä_übof,c_u,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_hösch
+328,SG25,SG,25,Krinau,3373,721900,242000,47.3176,9.05104,254,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_hösch
+329,SG26,SG,26,Ebnat_Kappel,3352,727500,236000,47.26259,9.12339,5031,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg / c_hösch
+330,SG27,SG,27,Hemberg,3372,731300,240300,47.30051,9.17484,906,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg / c_hösch
+331,SG28,SG,28,Schmerikon,3338,714000,231600,47.22549,8.94393,3710,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_hösch
+332,SG29,SG,29,Benken,3312,718700,228700,47.19858,9.00521,3025,c_ä_übof,c_u,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_goo,c_hösch
+333,SG30,SG,30,Gommiswald,3334,720000,232300,47.23072,9.02332,5071,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_hösch
+334,SG31,SG,31,Stein,3356,735500,229100,47.19895,9.22698,414,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg
+335,SG32,SG,32,Wildhaus,3357,744900,229800,47.20325,9.35122,2626,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_hösch
+336,SG33,SG,33,Grabs,3273,751900,227700,47.18279,9.44287,7068,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl / c_ea,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,NA,c_guu,c_nösch
+337,SG34,SG,34,Schanis,3315,721900,224500,47.16023,9.0463,3819,c_ä_übof,c_u,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_guu,c_higg / c_hösch
+338,SG35,SG,35,Amden,3311,729800,223400,47.14883,9.15014,1784,c_è_neutr,NA,c_u,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,NA,c_goo,c_hösch
+339,SG36,SG,36,Murg,3295,734800,219600,47.11366,9.21491,2937,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_guu,c_hösch
+340,SG37,SG,37,Oberterzen,3295,737900,218400,47.10223,9.25538,2937,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_guu,c_hösch
+341,SG38,SG,38,Tscherlach,3298,742200,220900,47.1238,9.31279,5679,c_ä_übof,c_u,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_guu,c_hösch
+342,SG39,SG,39,Flums,3292,744500,217400,47.09183,9.34198,4858,c_ä_übof,c_o / c_u,c_u,c_e_geschl / c_ei,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_guu,c_hösch
+343,SG40,SG,40,Weisstannen,3293,745200,207200,46.99996,9.34792,8623,NA,c_u,c_u,NA,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_guu,NA
+344,SG41,SG,41,Mels,3293,750500,212500,47.04644,9.41935,8623,c_ä_übof,c_o,c_u,c_ei,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_guu,c_hösch
+345,SG42,SG,42,Sevelen,3275,755200,221000,47.12178,9.48409,5104,c_è_neutr,c_o,c_u,c_ä_übof,c_e_neutr / c_ea,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,NA,c_guu,c_glugg
+346,SG43,SG,43,Azmoos,3276,755300,217800,47.09299,9.48431,5297,c_è_neutr,c_o,c_u,c_è_neutr,c_ea,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_guu,c_glugg / c_higg / c_nösch
+347,SG44,SG,44,Vilters,3297,753000,210000,47.02338,9.45139,4817,NA,c_u,c_u,NA,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe,c_guu,NA
+348,SG45,SG,45,Pfafers,3294,756900,206300,46.9892,9.50139,1565,NA,c_o,c_u,NA,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_glaufe / c_gloffe,c_guu,NA
+349,SG46,SG,46,Vattis,3294,752500,197300,46.9093,9.44055,1565,NA,c_u,c_u,NA,c_e_neutr / c_ei,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gloffe,c_guu,NA
+350,SH1,SH,1,Hallau,2971,676500,283400,47.69674,8.45771,2221,NA,c_o,c_u,NA,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,NA,c_goo,NA
+351,SH2,SH,2,Wilchingen,2974,677300,280100,47.66697,8.46779,1737,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_higg
+352,SH3,SH,3,Schleitheim,2952,678600,289300,47.74955,8.48673,1681,c_e_geschl,c_u,c_u,c_ei,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+353,SH4,SH,4,Siblingen,2953,681200,285400,47.71416,8.52068,886,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_higg
+354,SH5,SH,5,Hemmental,2934,685600,287700,47.73428,8.57975,559,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+355,SH6,SH,6,Merishausen,2936,687700,290700,47.76098,8.60834,859,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+356,SH7,SH,7,Schaffhausen,2939,689600,283800,47.69868,8.63228,36587,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang / c_gange,c_higg
+357,SH8,SH,8,Lohn,2917,692400,290200,47.75584,8.67091,758,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_higg
+358,SH9,SH,9,Ramsen,2963,702900,285000,47.70752,8.80971,1469,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+359,SH10,SH,10,Stein,2964,706700,279800,47.66015,8.85907,3415,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+360,SH11,SH,11,Rudlingen,2938,684600,270700,47.58154,8.56318,750,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+361,SO1,SO,1,Kleinlutzel,2619,596700,252400,47.4224,7.3949,1261,c_ä_übof,c_u,c_i,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,c_gluffe,c_gang,c_glugg
+362,SO2,SO,2,Rodersdorf,2479,601400,258900,47.48086,7.45721,1310,c_ä_übof,c_o,c_i,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,NA,c_gang,c_glugg
+363,SO3,SO,3,Hofstetten,2476,605800,258300,47.47544,7.51558,3157,c_ä_übof,c_u,c_i,c_e_geschl / c_ei,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,NA,c_gang,c_glugg
+364,SO4,SO,4,Hochwald,2475,615200,256200,47.45641,7.6402,1310,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e / c_ö,c_lang,c_nk,c_l,c_glaufe / c_gluffe,c_goo,c_glugg
+365,SO5,SO,5,Seewen,2480,616600,253700,47.43389,7.65867,1010,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gluffe,c_goo,c_glugg
+366,SO6,SO,6,Barschwil,2611,602600,247900,47.38193,7.47307,788,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_ngg,c_l,NA,c_gang,c_glugg
+367,SO7,SO,7,Erschwil,2615,607800,246800,47.37199,7.54191,924,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gluffe,c_goo,c_glugg
+368,SO8,SO,8,Breitenbach,2613,607900,250700,47.40707,7.5433,3854,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_ngg,c_l,c_gluffe,c_goo,c_glugg
+369,SO9,SO,9,Nunningen,2621,613600,249200,47.39348,7.61877,1880,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gluffe / c_glüffe,c_goo,c_glugg
+370,SO10,SO,10,Mumliswil,2428,619900,243400,47.34116,7.70196,2441,c_ä_übof,c_u,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e / c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+371,SO11,SO,11,Rickenbach,2528,631500,243000,47.33711,7.85542,1176,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_glugg
+372,SO12,SO,12,Olten,2581,634700,244700,47.35224,7.89789,18363,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_glugg
+373,SO13,SO,13,Stusslingen,2499,640100,249100,47.3915,7.96975,1055,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_glugg
+374,SO14,SO,14,Daniken,2572,641100,245100,47.35547,7.98263,2851,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_glugg
+375,SO15,SO,15,Gansbrunnen,2423,602200,234500,47.2614,7.4677,85,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_glugg
+376,SO16,SO,16,Gunsberg,2547,610500,234100,47.25772,7.57736,1175,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_glugg
+377,SO17,SO,17,Herbetswil,2424,611600,238400,47.29638,7.592,539,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_glugg
+378,SO18,SO,18,Balsthal,2422,619300,240600,47.31599,7.6939,6121,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_glugg
+379,SO19,SO,19,Oensingen,2407,621100,237800,47.29075,7.71757,6288,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+380,SO20,SO,20,Egerkingen,2401,626800,241300,47.32202,7.79313,3683,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+381,SO21,SO,21,Wolfwil,2408,627200,235500,47.26984,7.79807,2274,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_glugg
+382,SO22,SO,22,Gunzgen,2578,629500,240600,47.31561,7.8288,1652,c_ä_übof,c_o,c_ü,c_e_geschl,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe,c_goo,c_glugg
+383,SO23,SO,23,Bettlach,2543,598900,228000,47.20294,7.42412,4911,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_glugg
+384,SO24,SO,24,Oberdorf,2553,604900,231000,47.22991,7.50334,1724,c_ä_übof,c_u,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe,c_goo,c_glugg
+385,SO25,SO,25,Solothurn,2601,606900,228800,47.2101,7.52971,16777,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_glugg
+386,SO26,SO,26,Kriegstetten,2525,612000,225000,47.17585,7.59693,1293,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_goo,c_glugg
+387,SO27,SO,27,Deitingen,2516,613800,229300,47.21449,7.62081,2207,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_u,c_gloffe,c_goo,c_glugg
+388,SO28,SO,28,Aeschi,2511,617000,225500,47.18024,7.66291,1214,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_glaufe / c_glüffe,c_goo,c_glugg
+389,SO29,SO,29,Schnottwil,2461,596400,217800,47.11118,7.39121,1135,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_gange,c_glugg
+390,SO30,SO,30,Messen,2457,600700,215700,47.0923,7.44786,1481,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_goo,c_glugg
+391,SO31,SO,31,Muhledorf,2458,602800,220400,47.13457,7.47554,347,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_neutr,c_ii,c_üü,c_ö,c_lang,c_nk,c_u,c_gloffe / c_glüffe,c_gange / c_goo,c_glugg
+392,SZ1,SZ,1,Wollerau_Freienbach,1323,697100,228000,47.19581,8.72004,7255,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+393,SZ2,SZ,2,Feusisberg,1321,699200,227100,47.1874,8.74755,5263,c_ä_übof,c_o,c_u,c_è_neutr,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+394,SZ3,SZ,3,Galgenen,1342,708800,226700,47.1823,8.8741,5211,c_ä_übof,c_u,c_u,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gou,c_hösch
+395,SZ4,SZ,4,Schubelbach,1346,712900,225800,47.17352,8.92796,9250,c_ä_übof,c_o,c_u,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_gou,c_hösch
+396,SZ5,SZ,5,Tuggen,1347,714000,229100,47.20301,8.9433,3310,c_ä_übof,c_u,c_u,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gou,c_hösch
+397,SZ6,SZ,6,Rothenthurm,1370,693900,217800,47.10454,8.6757,2411,c_ä_übof,c_u,c_u,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+398,SZ7,SZ,7,Einsiedeln,1301,699800,220400,47.12706,8.75399,15870,c_ä_übof,c_u,c_u,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz / c_halblang / c_lang,c_nk,c_l,c_gloffe,c_gou,c_higg
+399,SZ8,SZ,8,Innerthal,1343,712400,218300,47.10615,8.91949,173,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_gou,c_hösch
+400,SZ9,SZ,9,Kussnacht,1331,676100,215100,47.08254,8.44077,13087,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+401,SZ10,SZ,10,Arth,1362,683500,212100,47.05466,8.53765,11985,c_ä_übof,c_o,c_ü,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+402,SZ11,SZ,11,Gersau,1311,682700,205100,46.9918,8.52585,2319,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gluffe,c_gaa,c_higg
+403,SZ12,SZ,12,Lauerz,1365,686700,210000,47.03536,8.57936,1100,c_ä_übof,c_u,c_ü,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+404,SZ13,SZ,13,Schwyz,1372,692400,208500,47.0211,8.65404,15181,c_ä_übof,c_u,c_ü,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+405,SZ14,SZ,14,Alpthal,1361,697000,214100,47.07081,8.71574,616,c_ä_übof,c_u,c_ü,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+406,SZ15,SZ,15,Muotathal,1367,700400,203500,46.97497,8.75815,3527,c_ä_übof,c_u,c_ü,c_a_hell,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,NA,c_gaa,c_higg
+407,SZ16,SZ,16,Oberiberg,1368,702100,210700,47.03947,8.78211,902,c_ä_übof,c_u,c_ü,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+408,TG1,TG,1,Basadingen,4536,698300,280600,47.66866,8.74745,1837,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+409,TG2,TG,2,Oberneunforn,4601,700000,273700,47.60635,8.76852,1039,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+410,TG3,TG,3,Huttwilen,4821,707700,273900,47.60693,8.87095,1729,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_higg
+411,TG4,TG,4,Mammern,4826,711000,278300,47.64595,8.91593,654,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+412,TG5,TG,5,Pfyn,4841,714000,272800,47.59598,8.95443,2016,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+413,TG6,TG,6,Homburg,4816,717900,277100,47.63396,9.00742,1543,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+414,TG7,TG,7,Wigoltingen,4951,719700,273100,47.59766,9.03029,2457,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_higg
+415,TG8,TG,8,Ermatingen,4646,723600,281300,47.67067,9.08441,3455,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+416,TG9,TG,9,Weinfelden,4946,725700,269800,47.56687,9.10911,11534,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gang,c_higg
+417,TG10,TG,10,Neuwilen,4666,728400,276500,47.62659,9.14692,2545,c_e_geschl,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_gang,c_higg
+418,TG11,TG,11,Birwinken,4901,732300,271600,47.58176,9.19733,1320,c_e_geschl,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe / c_gloffe,c_gang,c_higg
+419,TG12,TG,12,Bottighofen,4643,732800,278000,47.6392,9.20589,2226,c_e_geschl,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_gang,c_glugg
+420,TG13,TG,13,Kesswil,4426,741300,273100,47.59337,9.3174,992,c_e_geschl,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_halblang,c_ngg,c_l,c_gloffe,c_goo,c_higg
+421,TG14,TG,14,Gachnang,4571,706500,266200,47.53789,8.85315,4364,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+422,TG15,TG,15,Frauenfeld,4566,709600,268400,47.55716,8.89486,25611,c_è_neutr,c_u,c_u,c_e_geschl / c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+423,TG16,TG,16,Balterswil,4721,713100,256900,47.45316,8.93843,2864,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_gange / c_goo,c_higg
+424,TG17,TG,17,Stettfurt,4606,713900,265600,47.53125,8.95126,1204,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+425,TG18,TG,18,Wangi,4781,715400,262800,47.50581,8.97045,4720,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_gange / c_goo,c_higg
+426,TG19,TG,19,Fischingen,4726,715500,252600,47.41407,8.96914,2792,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_glaufe,c_goo,c_higg
+427,TG20,TG,20,Lustdorf,4611,716600,267800,47.55056,8.98769,1437,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+428,TG21,TG,21,Marwil,4711,723400,266600,47.53853,9.07767,2552,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg / c_nk,c_l,c_gloffe,c_gang,c_higg
+429,TG22,TG,22,Braunau,4723,723100,262600,47.50262,9.07258,778,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_gange,c_higg
+430,TG23,TG,23,Sulgen,4506,731500,266800,47.53876,9.18528,3869,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_gloffe,c_gang,c_higg
+431,TG24,TG,24,Sitterdorf,4511,736400,263200,47.50539,9.24924,2385,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+432,TG25,TG,25,Amriswil,4461,740000,267700,47.54509,9.29842,13538,c_e_geschl,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe,c_gang / c_goo,c_higg
+433,TG26,TG,26,Roggwil,4431,747700,264600,47.51554,9.39964,3068,c_è_neutr,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_ngg,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+434,TI1,TI,1,Bosco_Gurin,5304,681100,130000,46.3165,8.49157,46,c_ä_übof,c_u,c_i,c_ä_übof,c_e_geschl / c_ea,c_ii,c_üü,NA,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,
+435,UR1,UR,1,Seelisberg,1215,687400,202700,46.96962,8.58717,661,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz / c_lang,c_nk,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+436,UR2,UR,2,Isenthal,1211,685500,196100,46.9105,8.56096,483,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_gluffe,c_gaa,c_higg
+437,UR3,UR,3,Sisikon,1217,690100,200500,46.94947,8.62221,369,c_ä_übof,c_u,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gluffe,c_gaa,c_higg
+438,UR4,UR,4,Altdorf,1201,691800,192900,46.88088,8.643,9401,c_ä_übof,c_o,c_i,c_a_hell,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+439,UR5,UR,5,Unterschachen,1219,701500,191100,46.86328,8.76984,697,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz / c_lang,c_nk,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+440,UR6,UR,6,Erstfeld,1206,692500,186300,46.82142,8.65085,3788,c_ä_übof,c_o / c_u,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+441,UR7,UR,7,Silenen,1216,694100,182900,46.79061,8.67111,1949,c_a_hell,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_gluffe,c_gaa,c_higg
+442,UR8,UR,8,Gurtnellen,1209,691000,177100,46.73888,8.62936,540,c_a_hell,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_glüffe,c_gaa,c_higg
+443,UR9,UR,9,Meien_Dorfli,1220,685300,175400,46.72434,8.55447,398,c_a_hell,c_o,c_i,c_a_hell,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_gluffe,c_gaa,c_higg
+444,UR10,UR,10,Goscheneralp,1208,681200,166600,46.6457,8.49929,448,c_a_hell,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_gluffe,c_gaa,c_higg
+445,UR11,UR,11,Hospental,1210,686500,163700,46.61895,8.56797,186,c_a_hell,c_o,c_i,c_ä_übof,c_ei,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_gluffe,c_goo,c_higg / c_hösch
+446,UW1,UW,1,Hergiswil,1507,666400,204400,46.98734,8.31148,5777,c_ä_übof,c_u,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+447,UW2,UW,2,Stans_Oberdorf,1509,670600,201100,46.95722,8.36617,8393,c_ä_übof,c_u,c_i,c_a_hell,c_e_geschl / c_e_neutr,c_ei,c_üü,c_e,c_lang,c_nk,c_l,NA,c_gaa,c_higg
+448,UW3,UW,3,Wolfenschiessen,1511,672900,195800,46.9093,8.39554,2097,c_ä_übof,c_u,c_i,c_ä_übof,c_e_geschl / c_e_neutr,c_ei,c_ei,c_e,c_lang,c_nk,c_l,NA,c_gaa,c_higg
+449,UW4,UW,4,Buochs,1502,674700,203000,46.97386,8.42034,5311,c_ä_übof,c_u,c_i,c_ä_übof,c_e_geschl / c_e_neutr,c_ei,c_ei,c_e,c_lang,c_nk,c_l,NA,c_gaa,c_higg
+450,UW5,UW,5,Emmetten,1504,682200,201200,46.95679,8.51857,1429,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl / c_e_neutr,c_ei,c_ei,c_e,c_lang,c_nk,c_l,NA,c_gaa,c_higg
+451,UW6,UW,6,Alpnach,1401,663600,199200,46.94084,8.27395,6031,,c_o,c_i,c_ä_übof,,NA,c_üü,c_e,c_kurz,c_nk,c_l,c_gluffe,c_gaa,c_higg
+452,UW7,UW,7,Sarnen_Kagiswil,1407,661400,194200,46.89607,8.24438,10368,c_ä_übof,c_u,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_gluffe,c_gaa,c_higg
+453,UW8,UW,8,Sachseln,1406,661000,191200,46.86913,8.23873,5146,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,NA,c_gaa,c_higg
+454,UW9,UW,9,Giswil,1403,657100,187800,46.83889,8.18716,3658,c_ä_übof,c_u,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_gluffe,c_gaa,c_higg
+455,UW10,UW,10,Lungern,1405,654900,181800,46.7851,8.1576,2120,c_ä_übof,c_o / c_u,c_i,c_ä_übof,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,NA,c_gaa,c_higg
+456,UW11,UW,11,Melchtal,1404,664800,187400,46.83459,8.28803,6337,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_gluffe,c_gaa,c_higg
+457,UW12,UW,12,Engelberg,1402,673700,186100,46.82197,8.40447,4181,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl / c_e_neutr,c_ei,NA,c_ö,c_lang,c_nk,c_l,c_glüffe,c_gaa,c_higg
+458,WS1,WS,1,Salgesch,6113,610100,128900,46.31142,7.56975,1548,c_è_neutr,c_o,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_kurz / c_halblang / c_lang,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+459,WS2,WS,2,Inden,6109,613800,132600,46.34464,7.61789,106,c_e_geschl,c_o,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+460,WS3,WS,3,Agarn,6101,617400,127200,46.29598,7.66445,718,c_ä_übof,c_o,c_i,c_ea,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+461,WS4,WS,4,Feschel,6117,617500,130400,46.32477,7.66587,414,c_ä_übof,c_o,c_i,c_ea,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_nk,c_l,c_gluffe,c_gaa,c_higg
+462,WS5,WS,5,Turtmann,6114,620400,127700,46.3004,7.70341,1111,c_ä_übof,c_o,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+463,WS6,WS,6,Ferden,6195,624700,138100,46.39381,7.75977,253,c_ä_übof,NA,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+464,WS7,WS,7,Blatten,6192,629300,141100,46.42061,7.81976,290,c_ä_übof,NA,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+465,WS8,WS,8,Eischoll,6194,626300,127000,46.29389,7.77994,444,c_ä_übof,c_o,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+466,WS9,WS,9,Niedergesteln,6198,626400,129200,46.31368,7.78137,710,c_ä_übof,c_o,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+467,WS10,WS,10,Burchen,6193,630600,124300,46.26943,7.83557,730,c_ä_übof,c_o,c_i,c_e_geschl,c_e_geschl / c_e_neutr,c_ii,c_üü,c_e,c_kurz / c_halblang / c_lang,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+468,WS11,WS,11,Ausserberg,6191,631800,129300,46.31435,7.85147,626,c_ä_übof,NA,c_i,c_e_geschl,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lh,c_l,c_glüffe,c_gaa,c_higg
+469,WS12,WS,12,Visp,6297,634300,126900,46.29263,7.88375,7950,c_ä_übof,c_o,c_i,c_ea,c_e_geschl,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+470,WS13,WS,13,Visperterminen,6298,635800,123100,46.25837,7.90293,1345,c_ä_übof,NA,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+471,WS14,WS,14,Torbel,6296,631800,120800,46.23789,7.8509,481,c_ä_übof,NA,c_i,c_e_geschl / c_è_neutr,c_e_neutr,c_ii,c_üü,c_e,c_kurz / c_halblang,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+472,WS15,WS,15,Staldenried,6294,634200,119900,46.22967,7.88194,537,c_ä_übof,NA,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_kurz / c_halblang,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+473,WS16,WS,16,Grachen,6285,630900,116000,46.19475,7.83891,1251,c_ä_übof,NA,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+474,WS17,WS,17,St_Niklaus,6292,628100,113900,46.17598,7.80251,2239,c_ä_übof,NA,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_kurz / c_halblang / c_lang,c_Lh,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+475,WS18,WS,18,Randa,6287,626800,105600,46.10137,7.78521,435,c_ä_übof,NA,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_kurz / c_halblang / c_lang,c_Lch,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+476,WS19,WS,19,Tasch,6295,626300,101800,46.06721,7.77853,1322,c_ä_übof,NA,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_kurz / c_halblang / c_lang,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+477,WS20,WS,20,Zermatt,6300,623900,96500,46.01962,7.74724,5758,c_ä_übof,NA,c_i,c_e_geschl,NA,c_ii,c_üü,c_e,c_lang,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+478,WS21,WS,21,Saas_Grund,6291,638600,108100,46.12329,7.938,1000,c_ä_übof,NA,c_i,c_e_geschl,c_e_neutr,c_ii,c_üü,c_e,c_halblang,c_Lh,c_l,c_gluffe,c_gaa,c_higg
+479,WS22,WS,22,Mund,6006,638800,129500,46.31578,7.94237,544,c_ä_übof,NA,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+480,WS23,WS,23,Gamsen,6002,641000,126800,46.29136,7.97069,13058,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+481,WS24,WS,24,Brig_Ried,6008,644500,129500,46.31543,8.01636,2115,c_ä_übof,c_o,c_i,c_ä_übof,c_e_geschl / c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+482,WS25,WS,25,Simplon_Dorf,6009,647700,116200,46.19557,8.05655,305,c_ä_übof,NA,c_i,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe / c_glüffe,c_gaa,c_higg
+483,WS26,WS,26,Morel,6179,646700,134000,46.35575,8.04538,527,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+484,WS27,WS,27,Betten,6171,648600,136300,46.37631,8.0703,423,c_ä_übof,NA,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_glüffe,c_gaa,c_higg
+485,WS28,WS,28,Lax,6061,652400,137700,46.38862,8.11985,309,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_u,c_gluffe,c_gaa,c_higg
+486,WS29,WS,29,Ernen,6056,654300,138800,46.39836,8.14467,492,c_ä_übof,NA,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_u,c_gluffe,c_gaa,c_higg
+487,WS30,WS,30,Binn,6054,657300,135000,46.36393,8.18321,142,NA,NA,c_i,NA,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_u,c_glüffe,c_gaa,NA
+488,WS31,WS,31,Niederwald,6064,657700,143000,46.43586,8.1894,45,c_ä_übof,NA,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,NA,c_gluffe / c_glüffe,c_gaa,c_higg
+489,WS32,WS,32,Reckingen,6075,661800,146800,46.46967,8.24325,405,c_ä_übof,NA,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+490,WS33,WS,33,Geschinen,6074,664800,149400,46.49278,8.28267,64,c_ä_übof,NA,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gaa,c_higg
+491,WS34,WS,34,Oberwald,6066,669900,154000,46.53364,8.34979,277,c_ä_übof,c_o,c_i,c_ä_übof,c_e_neutr,c_ii,c_üü,c_e,c_kurz,c_Lch,c_l,c_gluffe,c_gange,c_higg
+492,ZG1,ZG,1,Hunenberg,1703,674900,225200,47.17351,8.42664,8808,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+493,ZG2,ZG,2,Risch,1707,677900,221000,47.13539,8.46549,10862,c_ä_übof,c_o,c_ü,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+494,ZG3,ZG,3,Steinhausen,1708,679300,227900,47.19729,8.48515,10026,c_ä_übof,c_o,c_ü,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_higg
+495,ZG4,ZG,4,Baar,1701,682600,227800,47.19598,8.52868,24468,c_ä_übof,c_o,c_u,,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_gaa,c_higg
+496,ZG5,ZG,5,Zug,1711,681800,224700,47.1682,8.51756,30542,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl / c_ei,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+497,ZG6,ZG,6,Walchwil,1710,681700,217200,47.10076,8.51489,3663,c_ä_übof,c_o,c_ü,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+498,ZG7,ZG,7,Oberageri,1706,686400,221800,47.14153,8.57767,6081,c_ä_übof,c_o,c_ü,c_ä_übof,c_ei,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,NA,c_gaa,c_higg
+499,ZG8,ZG,8,Menzingen,1704,687300,226000,47.17919,8.59035,4539,c_ä_übof,c_o,c_u,c_ä_übof,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+500,ZH1,ZH,1,Wasterkingen,70,677800,271600,47.59048,8.47296,560,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+501,ZH2,ZH,2,Eglisau,55,681600,271600,47.59002,8.52347,5217,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+502,ZH3,ZH,3,Rafz,67,682600,274100,47.61237,8.53723,4576,c_è_neutr,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_guu,c_higg
+503,ZH4,ZH,4,Flaach,28,688000,270100,47.5757,8.60825,1414,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+504,ZH5,ZH,5,Uhwiesen,34,689800,280600,47.66988,8.63429,1709,c_e_geschl,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gange,c_higg
+505,ZH6,ZH,6,Marthalen,35,690900,275700,47.62566,8.64793,1908,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+506,ZH7,ZH,7,Kleinandelfingen,33,693600,272800,47.59921,8.68323,2109,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+507,ZH8,ZH,8,Trullikon,40,694300,277100,47.63777,8.69345,1066,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+508,ZH9,ZH,9,Unterstammheim,42,701600,277400,47.63938,8.79064,928,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+509,ZH10,ZH,10,Ellikon,218,704300,269000,47.56342,8.82459,901,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl / c_e_neutr,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+510,ZH11,ZH,11,Niederweningen,91,670700,262000,47.50495,8.37705,3053,c_ä_übof,NA,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+511,ZH12,ZH,12,Weiach,102,675200,267800,47.55661,8.43775,1810,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+512,ZH13,ZH,13,Stadel,100,677500,264700,47.52846,8.46777,2289,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+513,ZH14,ZH,14,Niederglatt,89,680300,260600,47.49125,8.50421,4954,c_a_hell,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+514,ZH15,ZH,15,Glattfelden,58,680000,268000,47.55784,8.50155,5200,c_è_neutr,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+515,ZH16,ZH,16,Bulach,53,683000,263700,47.5188,8.54061,20447,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+516,ZH17,ZH,17,Embrach,56,687100,262000,47.50298,8.5947,9440,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+517,ZH18,ZH,18,Neftenbach,223,692500,264900,47.52832,8.66697,5679,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+518,ZH19,ZH,19,Henggart,31,693600,268700,47.56234,8.68237,2239,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+519,ZH20,ZH,20,Seuzach,227,697400,265800,47.53571,8.73222,7342,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+520,ZH21,ZH,21,Winterthur,230,697200,261700,47.49887,8.72867,111851,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+521,ZH22,ZH,22,Gundetswil_Stegen,212,703600,264900,47.52666,8.81434,422,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+522,ZH23,ZH,23,Elgg,217,707700,260900,47.49004,8.8678,4903,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+523,ZH24,ZH,24,Otelfingen,94,671500,257200,47.46169,8.3869,2939,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+524,ZH25,ZH,25,Weiningen,251,675200,252600,47.41991,8.43519,4832,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+525,ZH26,ZH,26,Regensberg,95,675400,259600,47.48284,8.43902,485,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+526,ZH27,ZH,27,Rumlang,97,682400,256200,47.45142,8.53126,8172,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+527,ZH28,ZH,28,Bassersdorf,52,689800,255500,47.44416,8.62923,11687,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+528,ZH29,ZH,29,Brutten,213,693100,258700,47.47248,8.67364,2010,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+529,ZH30,ZH,30,Unterillnau,174,696000,253000,47.4208,8.71088,17068,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+530,ZH31,ZH,31,Weisslingen,180,700000,254300,47.4319,8.76417,3384,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_goo,c_higg
+531,ZH32,ZH,32,Schlatt,226,704700,258400,47.46804,8.82742,769,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+532,ZH33,ZH,33,Turbenthal,228,706100,255000,47.43724,8.84517,4900,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+533,ZH34,ZH,34,Urdorf,250,674400,248400,47.38223,8.42389,9848,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+534,ZH35,ZH,35,Birmensdorf,242,675500,245400,47.35512,8.43795,6519,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_halblang / c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+535,ZH36,ZH,36,Stallikon,13,679500,242100,47.32497,8.4903,3680,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+536,ZH37,ZH,37,Zurich,261,683100,247100,47.3695,8.53885,415367,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_halblang / c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+537,ZH38,ZH,38,Zurich_Schwamendingen,261,685600,251000,47.40425,8.57269,0,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz,c_nk,c_l,c_gloffe,c_gaa,c_higg
+538,ZH39,ZH,39,Fallanden,193,690700,247300,47.37029,8.63949,8672,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+539,ZH40,ZH,40,Maur,195,693000,244000,47.3403,8.66926,10215,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+540,ZH41,ZH,41,Volketswil,199,694800,249500,47.3895,8.69423,18669,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+541,ZH42,ZH,42,Uster_Nanikon,198,696700,245000,47.34876,8.71842,34722,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_halblang / c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+542,ZH43,ZH,43,Russikon,178,701000,250200,47.39488,8.77649,4370,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+543,ZH44,ZH,44,Pfaffikon_Irgenhausen,177,701700,246900,47.36509,8.78501,11935,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+544,ZH45,ZH,45,Baretswil,111,707200,243800,47.33634,8.85707,5029,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+545,ZH46,ZH,46,Bauma_Saland,171,708700,247300,47.36757,8.87776,4965,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+546,ZH47,ZH,47,Sternenberg,179,711500,249300,47.38509,8.91532,350,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_goo,c_higg
+547,ZH48,ZH,48,Steg,114,713400,246200,47.35689,8.9397,2501,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe,c_goo,c_higg
+548,ZH49,ZH,49,Hedingen,5,676400,239000,47.29746,8.44877,3734,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+549,ZH50,ZH,50,Mettmenstetten,9,677600,233000,47.24336,8.4636,5094,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+550,ZH51,ZH,51,Aeugst,1,679300,235700,47.26744,8.48653,1982,c_ä_übof,NA,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+551,ZH52,ZH,52,Kappel,6,682400,231300,47.22749,8.52668,1157,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+552,ZH53,ZH,53,Langnau,136,683400,238100,47.28852,8.54114,7547,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+553,ZH54,ZH,54,Kilchberg,135,683400,241300,47.3173,8.54174,8858,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+554,ZH55,ZH,55,Horgen,133,687800,234900,47.25917,8.59868,22665,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+555,ZH56,ZH,56,Wadenswil,142,693400,231600,47.22872,8.67197,21621,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+556,ZH57,ZH,57,Hutten,134,692700,225600,47.17486,8.66149,888,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_kurz / c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+557,ZH58,ZH,58,Kusnacht,154,686600,241300,47.31688,8.58406,14397,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+558,ZH59,ZH,59,Meilen,156,691300,236100,47.26949,8.64516,14220,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+559,ZH60,ZH,60,Stafa,158,697000,233000,47.24079,8.7198,14497,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+560,ZH61,ZH,61,Egg_Esslingen,192,694700,239600,47.30048,8.69082,8598,c_ä_übof,c_o,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+561,ZH62,ZH,62,Oetwil,157,697000,236300,47.27047,8.72051,4817,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+562,ZH63,ZH,63,Grut,115,699600,240400,47.30696,8.75577,10222,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
+563,ZH64,ZH,64,Bubikon,112,704400,236300,47.26934,8.81829,7334,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_gaa,c_higg
+564,ZH65,ZH,65,Hinwil,117,706400,239800,47.3005,8.84554,11138,c_ä_übof,c_u,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_glaufe / c_gloffe,c_gaa,c_higg
+565,ZH66,ZH,66,Wald,120,711700,237200,47.27624,8.91496,9949,c_ä_übof,NA,c_u,c_è_neutr,c_e_geschl,c_ii,c_üü,c_ö,c_lang,c_nk,c_l,c_gloffe,c_goo,c_higg
